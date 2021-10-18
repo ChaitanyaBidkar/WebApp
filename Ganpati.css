@@ -1,0 +1,36 @@
+.card-title{
+    color: crimson;
+    text-align: center;
+    
+  }
+  .card-text{
+       text-align: center;
+  }
+  h6{
+      text-align: center;
+  }
+  .div{
+    
+        width: 35px;
+        height: 5px;
+        background-color: black;
+        margin: 6px 0;
+      
+  }
+  .card{
+      color: black;
+      background-color: rgb(232, 228, 183);
+  }
+  .card-footer{
+      background-color: rgb(202, 62, 10);
+  }
+  .navbar{
+      background-color: rgb(55, 9, 55);
+  }
+  .navbar-brand{
+      color: antiquewhite;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .btn{
+      margin-left: 40%;
+  }
